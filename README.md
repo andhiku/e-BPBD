@@ -1,3 +1,3 @@
 Untuk implementasi silahkan buka link berikut.
 
-http://www.rekayasawebandhiku.tk
+http://mitratik.com/dev/e-bpbd
