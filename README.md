@@ -1,3 +1,5 @@
 Untuk implementasi silahkan buka link berikut.
 
-http://mitratik.com/dev/e-bpbd
+http://mitratik.com/project/e-bpbd
+
+Mohon gunakan dengan bijak
