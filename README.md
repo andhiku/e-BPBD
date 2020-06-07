@@ -13,6 +13,6 @@ Sistem Spesifikasi
 
 Untuk implementasi silahkan buka link berikut.
 
-<a href"http://mitratik.id/project/e-bpbd">e-BPBD</a> 
+<a href="http://mitratik.id/project/e-bpbd">e-BPBD</a> 
 
 Mohon gunakan dengan "BIJAK"
