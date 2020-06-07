@@ -12,5 +12,7 @@ Sistem Spesifikasi
 11. IonIcons
 
 Untuk implementasi silahkan buka link berikut.
-http://mitratik.id/project/e-bpbd
+
+<a href"http://mitratik.id/project/e-bpbd">e-BPBD</a> 
+
 Mohon gunakan dengan "BIJAK"
