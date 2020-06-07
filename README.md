@@ -8,7 +8,9 @@ Sistem Spesifikasi
 7. Fancy Box v.2.1.5
 8. Moment.js v.2.9.0
 9. Select2
+
 10.Font Awesome
+
 11.IonIcons
 
 Untuk implementasi silahkan buka link berikut.
